@@ -9,9 +9,9 @@ describe('Array', function() {
 });
 
 describe('MyCustomTest', function() {
-  describe('Some description', function() {
-    it('should return fail', function() {
-      assert.equal("A", "B");
+  describe('Basic passing test', function() {
+    it("should show A equals A", function() {
+      assert.equal("A", "A");
     });
   });
 });
