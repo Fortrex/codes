@@ -8,10 +8,10 @@ describe('Array', function() {
   });
 });
 
-describe('MyCustomTest', function() {
-  describe('Basic passing test', function() {
-    it("should show A equals A", function() {
-      assert.equal("A", "A");
-    });
-  });
-});
+// describe('MyCustomTest', function() {
+//   describe('Basic passing test', function() {
+//     it("should show A equals A", function() {
+//       assert.equal("A", "A");
+//     });
+//   });
+// });
